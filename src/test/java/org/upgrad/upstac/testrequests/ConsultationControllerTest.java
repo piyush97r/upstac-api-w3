@@ -143,7 +143,7 @@ class ConsultationControllerTest {
         // Return the object
 
 
-        return null; // Replace this line with your code
+        return null; // to return no value if this statement is passed
 
     }
 
